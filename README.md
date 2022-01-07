@@ -26,7 +26,6 @@ Donner un nom au dossier dans Target Directory,
 Terminé. 
 
 
-
 2) Ouvrir VS Code
 Fichier (En haut à gauche) 
 Add folder to workspace
@@ -49,7 +48,7 @@ Ctrl+shift+G
 
 - Branches : 
 Penser à toujours être dans la branche "main". Si ce n'est pas le cas : 
-        liquer sur la branche (après le nom du projet), et selectionner "main"
+        Cliquer sur la branche (après le nom du projet), et selectionner "main"
         
 - Enregister avec Ctrl+S
 
